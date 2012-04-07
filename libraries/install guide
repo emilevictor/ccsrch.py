@@ -1,0 +1,12 @@
+Step 1:
+    Run ez_setup.py with python
+Step 2:
+    From your favorite command line utulity, try executing the following as administrator 
+    easy-install openpyxl
+    easy-install xlrd    
+Step 3:
+    Done!
+    
+    
+Troubleshooting:
+If you have troubles installing/running easy-install (steps 1 and 2) try looking here http://packages.python.org/distribute/easy_install.html
